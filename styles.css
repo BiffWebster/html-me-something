@@ -1,0 +1,42 @@
+body {
+	background-color: black;
+}
+.lettering {
+	color: red;
+	text-align: center;
+}
+.moi {
+	position: relative;
+	
+	left: 585px;
+	
+}
+.ghost{
+	position: relative;
+	bottom: 20px;
+	left: 20px;
+	margin: 50px;
+	height: 200px;
+	width: 300px;
+}
+.rush{
+	position: relative;
+	left: 20px;
+	bottom: 20px;
+	margin: 50px;
+	height: 200px;
+	width: 300px;
+}
+.metallica{
+	position: relative;
+	left: 20px;
+	bottom: 20px;
+	margin: 50px;
+	height: 200px;
+	width: 300px;
+}
+#fave{
+	font: arial;
+
+
+	
