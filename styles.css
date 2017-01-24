@@ -14,14 +14,14 @@ body {
 .ghost{
 	position: relative;
 	bottom: 20px;
-	left: 20px;
+	left: 50px;
 	margin: 50px;
 	height: 200px;
 	width: 300px;
 }
 .rush{
 	position: relative;
-	left: 20px;
+	left: 50px;
 	bottom: 20px;
 	margin: 50px;
 	height: 200px;
@@ -29,14 +29,14 @@ body {
 }
 .metallica{
 	position: relative;
-	left: 20px;
+	left: 50px;
 	bottom: 20px;
 	margin: 50px;
 	height: 200px;
 	width: 300px;
 }
 #fave{
-	font: arial;
+	font-family: arial;
 
 
 	
